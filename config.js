@@ -1,3 +1,3 @@
-window.twitch.ext.onAuthorized(function (auth) {
+window.Twitch.ext.onAuthorized(function (auth) {
     // Manage auth
 })
